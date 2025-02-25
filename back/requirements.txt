@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Cors
+Flask-Marshmallow
+psycopg2
+SQLAlchemy
+gunicorn
+python-dotenv
+flask-restx
